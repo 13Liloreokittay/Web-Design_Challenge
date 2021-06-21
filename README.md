@@ -1,2 +1,1 @@
-# Web-Design_Challenge
-HTML and CSS
+# Web-Design-Challenge
